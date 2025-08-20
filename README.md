@@ -18,3 +18,4 @@ Player 2 (Gabezerra12/Bezerra)
 9. Jogada feita no canto superior direito(player 1)
 10. Fiz a jogada no centro superior(player 2)
 11. Jogada feita no canto inferior cental(player1)
+12. Deu velha
